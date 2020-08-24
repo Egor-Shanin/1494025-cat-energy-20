@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Егор Шанин](https://up.htmlacademy.ru/adaptive/20/user/1494025).
-* Наставник: `Анна Лисененкова`.
+* Наставник: [Анна Лисененкова](https://up.htmlacademy.ru/adaptive/20/user/85590).
 
 ---
 
